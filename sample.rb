@@ -1,7 +1,7 @@
 def hello
   Hp "hello, world."
-  if test 
-    
+  name = "hello git hub"
+  
   end
 end
 
